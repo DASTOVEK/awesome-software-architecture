@@ -1,0 +1,13 @@
+name: awesome-software-architecture
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/53611b5d-080f-4b36-9f6a-63e167c21b75
+description: 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
